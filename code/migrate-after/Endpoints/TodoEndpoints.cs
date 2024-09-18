@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 using TodoApi.Models;
 using Microsoft.AspNetCore.OpenApi;
 
-namespace TodoApi.Controllers
+namespace Endpoints
 {
     public static class TodoEndpoints
     {
